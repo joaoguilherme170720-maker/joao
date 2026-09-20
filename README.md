@@ -32,3 +32,8 @@ passa tempo
   <script src="game.js"></script>
 </body>
 </html>
+meu-jogo/
+
+├── index.html
+├── style.css
+└── game.js
